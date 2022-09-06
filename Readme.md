@@ -11,6 +11,6 @@
 
 # Time taken to finish this project is around 5 hours.
 
-[Live link for Project-7]()
+[Live link for Project-7](https://zippy-malabi-e1930c.netlify.app/)
 
 
